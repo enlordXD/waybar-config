@@ -3,9 +3,13 @@
 My waybar config (in case anyone wants it...)
 
 Dependencies:
+
 Any nerd font
+
 Space Mono Font
+
 power-profiles-daemon
+
 pavucontrol
 
 # BACKUP YOUR EXISTING WAYBAR CONFIG, this config IS NOT TESTED #
