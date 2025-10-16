@@ -14,5 +14,5 @@ Installation:
 Create a directory ~/.config/waybar and run the following command:
 
 ```
-git clone https://github.com/enlordXD/waybar-config.git waybarconf && cd waybarconf && ./install.sh
+git clone https://github.com/enlordXD/waybar-config.git waybarconf && cd waybarconf && chmod +x install.sh && ./install.sh
 ```
